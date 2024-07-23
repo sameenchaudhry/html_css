@@ -1,12 +1,12 @@
 
 import Jokes from "./pages/Jokes";
-import "./App.css"
+import "./App.css";
 const App = () => {
   return (
  <>
  <Jokes/>
  </>
-    
+    //TEST
   );
 };
 
