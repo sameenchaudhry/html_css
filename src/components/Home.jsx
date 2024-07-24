@@ -11,9 +11,9 @@ const Home = () => {
   };
 
   return (
-    <div>
+    <div className='homec'>
       <h1>Count: {count}</h1>
-      <button onClick={() => setCount(count + 1)}>+1</button>
+      <button onClick={() => setCount(count + 1)}>+1 add count</button>
     </div>
   );
 };

@@ -8,6 +8,11 @@ const Nav = () => {
      <li><a href='/About'>About</a></li>
       <li><a href='/Contact'>Contact</a></li>
 </ul>
+<ul className='new'>
+    <li><a href='/'>Home</a></li>
+     <li><a href='/About'>About</a></li>
+      <li><a href='/Contact'>Contact</a></li>
+</ul>
     </div>
   )
 }
