@@ -25,8 +25,6 @@ const Home = () => {
       <h2>Adding another feature</h2>
       <h2>Adding another feature</h2>
       <h2>Adding another feature</h2>
-      <h2>Adding another feature</h2>
-      <h2>Adding another feature</h2>
     </div>
   );
 };

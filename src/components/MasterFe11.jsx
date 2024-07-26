@@ -6,9 +6,6 @@ const MasterFe11 = () => {
     <h1>MasterFe11</h1>
     <h2>heading 2</h2>
     </>
-    //
-    ////....
-    ///rfrrer
   )
 }
 
