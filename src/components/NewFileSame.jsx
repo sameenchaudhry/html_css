@@ -10,7 +10,7 @@ const NewFileSame = () => {
     <h2>HTML Forms</h2>
      <button for="firstname">First name: </button>
     <input type="text" name="firstname"  required></input>
-    <button for="firstname">LastName</button>
+    <button for="firstname">Hello</button>
     <h6>hello world</h6>
     </>
   )
